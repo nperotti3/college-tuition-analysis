@@ -1,9 +1,9 @@
-# College Tuition Analysis – Personal Portfolio Version
+# College Tuition Analysis – Personal Version
 
 This repository is a **personal, portfolio-ready version** of a team project completed for  
 **CSE 6242 – Data & Visual Analytics, Georgia Tech (Spring 2025)**.
 
-The original project was developed by **Team 151** and analyzes nearly three decades of U.S. higher education data from the Department of Education’s **College Scorecard**. The goal is to understand how tuition has evolved over time and which institutional and student factors are most strongly associated with higher tuition levels.
+The project analyzes nearly three decades of U.S. higher education data from the Department of Education’s **College Scorecard**. The goal is to understand how tuition has evolved over time and which institutional and student factors are most strongly associated with higher tuition levels.
 
 This repo focuses on:
 
